@@ -1,0 +1,9 @@
+{
+    "name": "JesterDoorSlam",
+    "version_number": "1.0.0",
+	"website_url": "https://github.com/Terraformer9x/JesterDoorSlam",
+    "description": "Makes popped Jesters slam open doors, provided they've built up enough speed.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
